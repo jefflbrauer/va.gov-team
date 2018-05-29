@@ -1,5 +1,8 @@
 /* MERGER-specific shame. This is not production ready; proof of concept only */
 
+$color-grey-lightest: #f1f1f1;
+$color-primary-lightest: #e1f3f8;
+
 section.usa-grid {
   padding-top: 3em;
 }
@@ -42,10 +45,6 @@ section.usa-grid {
   padding-bottom: 3em;
 }
 
-.row {
-  padding-top:3em;
-}
-
 #footer-first-child {
   margin-top: 2em;
 }
@@ -58,5 +57,56 @@ section.usa-grid {
 #homepage-hub {
 
   background-color: $color-primary;
-  height:auto;
+  padding-top: 3em;
+  padding-bottom: 3em;
+
+  #hub-internal {
+
+    background-color: $color-white;
+    padding: 1.5em 0 1.5em 0;
+    width: 53%;
+
+    .usa-grid:first-of-type {
+      margin-bottom: 3em;
+    }
+
+    ul {
+      list-style: none;
+      border-left: 4px solid $color-gold-light;
+      padding-left: .7em;
+    }
+  }
+}
+
+#homepage-popular {
+  padding: 3em 0 3em 0;
+}
+
+#homepage-hero {
+  background-color: $color-grey-lightest;
+}
+
+#homepage-news {
+  background-color: $color-primary-lightest;
+  padding: 3em 0 3em 0;
+  margin-top: 3em;
+}
+
+#homepage-benefits {
+
+  .usa-grid {
+    padding-bottom: 3em;
+  }
+
+  .usa-grid:last-of-type {
+    padding-bottom: 0;
+  }
+}
+
+// new pattern
+
+.va-content-block {
+  border-left: 3px solid $color-primary;
+  padding-left: 1rem;
+  height: 160px;
 }
