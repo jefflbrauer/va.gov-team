@@ -110,11 +110,21 @@ section.usa-grid {
 }
 
 // new pattern
-
 .va-content-block {
-  border-left: 3px solid $color-primary;
+  border-left: 4px solid $color-primary;
   padding-left: 1rem;
-  height: 160px;
+
+  &.three-lines {
+    height: 100px;
+  }
+
+  &.four-lines {
+    height: 140px;
+  }
+
+  &.five-lines {
+    height: 160px;
+  }
 }
 
 h3, h4 {
