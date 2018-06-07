@@ -219,9 +219,35 @@ h3, h4 {
     li {
       display: inline-block;
 
+      a {
+        color: white;
+      }
       a:visited {
         color: white;
       }
     }
   }
+}
+
+.merger-majorlinks {
+
+  .link {
+
+    margin-bottom: 1em;
+
+    p {
+      margin: 0;
+    }
+
+    a {
+      text-decoration: none;
+      padding-bottom: 0;
+    }
+  }
+
+  &:last-of-type {
+    padding-bottom: 3em;
+  }
+
+
 }

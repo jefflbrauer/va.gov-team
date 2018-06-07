@@ -6,6 +6,11 @@ display_title: Health Care
 concurrence: complete
 lastupdate:
 order: 1
+photocallout:
+  - image:
+    heading: Learn About the Veterans Choice Program
+    url: ""
+    description: If you are already enrolled in VA health care, the Veterans Choice Program allows you to receive health care within your community.
 relatedlinks:
   - heading: Related Resources
     links:
@@ -40,117 +45,164 @@ phonetree:
   - heading: Need Help? Call Us
     links:
     - url: 1-877-222-8387
-      title: General Health Care Help:
+      title: General Health Care Help
     - url: 1-888-492-7844
-      title: Mammography Hotline:
+      title: Mammography Hotline
     - url: 1-855-829-6636
-      title: Women Veterans Hotline:
+      title: Women Veterans Hotline
     - url: 1-888-385-0235
-      title: CHAMPVA Meds By Mail:
+      title: CHAMPVA Meds By Mail
     - url: 1-855-784-8838
-      title: Smoking Cessation Counselors:
+      title: Smoking Cessation Counselors
     - url: 1-877-345-8179
-      title: Foreign Medical Program (FMP):
+      title: Foreign Medical Program (FMP)
     - url: 1-877-345-8179
-      title: Spina Bifida Health Care Program:
-photocallout:
-  - image:
-    heading: Learn About the Veterans Choice Program
-    url: ""
-    description: If you are already enrolled in VA health care, the Veterans Choice Program allows you to receive health care within your community.
+      title: Spina Bifida Health Care Program
 ---
 
 <p class="va-introtext">
 With VA health care, you’re covered for regular checkups with your primary care provider and appointments with specialists (like cardiologists, gynecologists, and mental health providers). You also gain access to home health and geriatric (elder) care, medical equipment, prosthetics, and prescriptions.
 </p>
 
-Veterans may call (202) 745-8685 to make appointments at the clinic.
+<h3 class="highlight">Page Content</h3>
 
-The clinic is located in the Southeast Veterans Service Center near the intersection of Chesapeake Street and Southern Avenue in Southeast Washington. It is easily accessible by Metrobus routes A6 (Anacostia-Congress Heights Line) and P12 (Eastover-Addison Road Line). The Anacostia subway station is on the A6 route, and the Addison Road subway station is on the P12 route.
+[Get Health Care Benefits](#get)<br>
+[Manage Your Health Benefits](#manage)<br>
+[More Health Care Information and Resources](#more)<br>
 
-Dr. Robin Peck provides comprehensive Women's health care.
-
-### Location and Directions
-<p class="va-address-block">
-  820 Chesapeake Street, <br>
-  Southeast Washington, DC 20032-3428<br>
-  <strong>Phone</strong>: 202-745-8685<br>
-  <strong>Fax</strong>: 202-562-8789
-</p>
-
-#### Driving directions
-
-<form method="get" action="https://maps.google.com/maps" target="blank" id="getDirections">
-<label for="directionsInput" class="positionset">Starting address</label><input name="saddr" id="directionsInput"><input value="38.829366,-76.993826" type="hidden" name="daddr" new="new" pratt="pratt">
-<input value="Get Directions from Google »" type="submit" id="directionsButton" title="Driving Directions are provided as a convenience. By clicking the link, you will leave the Department of Veterans Affairs Website. VA does not endorse and is not responsible for the content of the linked website.">
-</form>
-
-<p>
-  <strong>View Map:</strong><br>
-  <a href="https://www.va.gov/directory/guide/viewmap.cfm?mapID=4&amp;id=988" title="View Community Clinic-Southeast&nbsp;- Bing map">Bing</a><br>
-  <a href="https://www.va.gov/directory/guide/viewmap.cfm?mapID=2&amp;id=988" title="View Community Clinic-Southeast&nbsp;- MapQuest map">MapQuest</a><br>
-  <a href="https://www.va.gov/directory/guide/viewmap.cfm?mapID=3&amp;id=988" title="View Community Clinic-Southeast&nbsp;- Google map">Google</a>
-</p>
-
-<p><strong>Coordinates:</strong> <br>
-38°49'45"N 76°59'37"W</p>
-
-### Frequently Asked Questions
-<br>
-<div class="usa-accordion">
-  <ul class="usa-unstyled-list">
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="appointment" aria-expanded="false">
-    How do I make an appointment at the Community Clinic- Southeast?
-    </button>
-    <div id="appointment" class="usa-accordion-content" aria-hidden="true">
-      <p>Veterans may call (202) 745-8685 Monday through Friday between 8:00 a.m. and 4:30 p.m. to schedule an appointment, for enrollment or to obtain a picture identification card.</p>
-      <p>Veterans may also call the Medical Center Call Center (202) 745-8577 Monday through Friday between 7:30 a.m. and 6 p.m. to schedule an appointment or for additional information.</p>
+<div class="usa-alert usa-alert-warning">
+  <div class="usa-alert-body">
+    <h4 class="usa-alert-title">Are you homeless or at risk of becoming homeless?<br><a id="crisis-expander-link">VA may be able to help</a>.</h4>
+    <div id="crisis-expander-content" class="expander-content expander-content-closed">
+      <div class="expander-content-inner usa-alert-text">
+        <p>We offer many programs and services to support you. Find the support you need: </p>
+        <ul>
+          <li>Get help connecting with services you may qualify for in your community. <br>
+            <a href="/facilities/">Find the nearest VA medical center</a>.</li>
+          <li>Call the National Call Center for Homeless Veterans at 1-877-4AID-VET (<a href="tel:+18774243838">1-877-424-3838</a>) for help 24 hours a day, 7 days a week.</li>
+        </ul>
+        <p>We can also connect you with other non-VA resources in your area.</p>
+        <p><b>Are you in crisis right now?</b> <br>
+        <a href="https://www.veteranscrisisline.net/ChatTermsOfService.aspx?account=Homeless%20Veterans%20Chat">Chat online with a trained VA staff member</a>.</p>
+        <p><b>If you’re a female Veteran,</b> you can contact your local VA medical center and ask for the Women Veterans Program Manager for help getting housing, health care, and other benefits. <a href="/facilities/">Contact your closest VA medical center</a>.</p>
+      </div>
     </div>
-  </li>
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="clinic-closed" aria-expanded="false">
-    What if I need care when the clinic is closed?
-    </button>
-    <div id="clinic-closed" class="usa-accordion-content" aria-hidden="true">
-      <p>If your illness is not life-threatening, call the Medical Advice line and a nurse will advise you on what to do and where to seek medical treatment.</p>
-      <p>If you have a medical emergency, call 911 or go to the nearest hospital emergency room for immediate medical attention.</p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="who-do-i-call" aria-expanded="false">
-    Who should I call if I have questions about my health care?
-    </button>
-    <div id="who-do-i-call" class="usa-accordion-content" aria-hidden="true">
-      <p>Call the nurse case manager Mondays Thursdays and Fridays between 8 a.m. and 4:30 p.m. at (202)745-8685. At other times you should call the Medical Advice Line nurse.</p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="prescriptions" aria-expanded="false">
-    How do I get my prescriptions filled?
-    </button>
-    <div id="prescriptions" class="usa-accordion-content" aria-hidden="true">
-      <p>During your scheduled visit, this will be discussed with you. The first refill on a new prescription will be automatically mailed to you.</p>
-      <p>For additional refills by mail you must complete and return the pharmacy refill form that is included with the first refill.</p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="x-rays" aria-expanded="false">
-    If I need an X-ray can it be done at the Community Clinic?
-    </button>
-    <div id="x-rays" class="usa-accordion-content" aria-hidden="true">
-      <p>If ordered by your doctor, X-rays will be taken at the Greater Southeast Community Hospital.</p>
-    </div>
-  </li>
-  <li>
-    <button class="usa-button-unstyled usa-accordion-button" aria-controls="transportation" aria-expanded="false">
-    Will there be transportation services to the clinic?
-    </button>
-    <div id="transportation" class="usa-accordion-content" aria-hidden="true">
-      <p>Under certain circumstances, transportation may be provided. Call the clinic for more information.</p>
-    </div>
-  </li>
-</ul>
+  </div>
 </div>
 
-<!--https://www.washingtondc.va.gov/locations/Southeast_Washington_DC.asp-->
+<script type="text/javascript">
+
+  // Toggle the expandable crisis info
+  document.getElementById('crisis-expander-link')
+    .addEventListener('click', function () {
+      document.getElementById('crisis-expander-content').classList.toggle('expander-content-closed');
+    });
+</script>
+
+<section id="get" class="merger-majorlinks">
+
+  <h2 class="highlight">Get Health Care Benefits</h2>
+
+  <div class="link">
+    <a href="#"><b>About VA Health Care Coverage</b></a>
+    <p>Learn more about your VA health care benefits, your health care team, and where you’ll go.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Eligibility</b></a>
+    <p>Find out if you can get VA health care benefits.
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Application Process</b></a>
+    <p>Once you’ve figured out if you qualify, applying for VA  health care benefits is easy. Find out how to apply.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>After You Apply</b></a>
+    <p>After you’ve applied for VA health care, find out when to expect your letter—and what to do next.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Family and Caregiver Health Benefits</b></a>
+    <p>If you’re the spouse, surviving spouse, dependent child, or family caregiver of a Servicemember or Veteran, you may qualify for health care benefits like TRICARE, CHAMPVA, or other programs based on your caregiver status or your family member's service history.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Apply for Health Care</b></a>
+    <p>Apply online now, or find out how to apply in person, by phone, or by mail.</p>
+  </div>
+
+</section>
+
+<section id="manage" class="merger-majorlinks">
+
+  <h2 class='highlight'>Manage Your Health Benefits</h2>
+
+  <div class="link">
+    <a href="#"><b>Refill or Track Your Prescriptions</b></a>
+    <p>Refill prescriptions online, and track the status of your refills.</p>
+    </div>
+
+  <div class="link">
+    <a href="#"><b>Message Your Health Care Team</b></a>
+    <p>Send a secure note to your primary care provider or other members of your VA health care team.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Schedule or Manage a VA Appointment</b></a>
+    <p>Find out how to make a doctor's appointment with a member of your VA health care team online or by phone.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>View Your Lab and Test Results</b></a>
+    <p>A few days after your appointment, sign in to your account to see results of your medical tests.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Order Hearing Aid Batteries</b></a>
+    <p>Order new btteries online and get them mailed directly to you.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Get Your VA Health Records (Blue Button)</b></a>
+    <p>View, download, and print your VA health records.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Update Your Health Benefits</b></a>
+    <p>Apply online now, or find out how to apply in person, by phone, or by mail.</p>
+  </div>
+
+</section>
+
+<section id="more" class="merger-majorlinks">
+
+  <h2 class='highlight'>More Health Care Information and Resources</h2>
+
+  <div class="link">
+    <a href="#"><b>Determine Costs of Care</b></a>
+    <p>Figure out how much your monthly health care costs will add up to.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Health Needs and Conditions</b></a>
+    <p>Find out how to access VA services for mental health, women’s health, and other specific needs.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Conditions Related to When and Where You Served</b></a>
+    <p>Find out which service-connected health concerns you should be aware of, based on when and where you served.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Wellness Programs</b></a>
+    <p>Learn about special programs that focus on increasing your wellness.</p>
+  </div>
+
+  <div class="link">
+    <a href="#"><b>Affordable Care Act (ACA)</b></a>
+    <p>Find out what you need to know about the ACA and your health coverage.</p>
+  </div>
+
+</section>

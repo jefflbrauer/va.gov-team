@@ -3,7 +3,7 @@
  Level 2 Index (Merger)
 =====================
 
-Used for index pages in top-level paths (e.g. /disability-benefits/index.html)
+Used for index pages in top-level paths (e.g. /healthcare/index.html)
 
 -== Maintenance notes ==-
 
@@ -15,22 +15,28 @@ As of 2017-04-13:
 {% endcomment %}
 
 <main>
-  <div class="row">
-    <article class="usa-content columns">
+  <div class="usa-grid">
+    <article class="usa-width-two-thirds">
         <h1>{{ title }}</h1>
         {{ contents }}
     </article>
-  </div>
-  {% if majorlinks != empty %}
-    {% include "content/components/navigation-links-list.html" %}
-  {% endif %}
 
-  {% if relatedlinks != empty %}
-    {% include "content/components/navigation-links-list.html" with isRelated = true %}
-  {% endif %}
-  <div class="row">
-    <div class="usa-content columns">
-      {% include "content/includes/last-update.html" %}
+    <div class="usa-width-one-third">
+
+      {% if photocallout != empty %}
+        {% include "content/components/merger-photocallout.html" %}
+      {% endif %}
+
+      {% if relatedlinks != empty %}
+        {% include "content/components/merger-links-list.html" %}
+      {% endif %}
+
+      {% if phonetree != empty %}
+        {% include "content/components/merger-phone-tree.html" %}
+
+      {% endif %}
+
     </div>
+
   </div>
 </main>
