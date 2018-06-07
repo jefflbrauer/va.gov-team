@@ -249,5 +249,36 @@ h3, h4 {
     padding-bottom: 3em;
   }
 
+}
 
+.merger-r-rail {
+
+  background-color: $color-grey-lightest;
+  padding: 1em;
+  margin-bottom: 1.5em;
+
+  .heading {
+
+    font-weight: bold;
+
+    &.va-nav-linkslist-heading {
+      font-size: 1.15em;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .va-nav-linkslist-list li {
+      margin: 0;
+      p {
+        margin-bottom: 0;
+        margin-top: 0.5rem;
+      }
+
+      a {
+
+      }
+  }
 }

@@ -31,7 +31,7 @@ See https://help.shopify.com/themes/liquid/tags/theme-tags#include
 
     {% if group.heading != empty %}
       <section>
-        <h3 class="va-nav-linkslist-heading">{{ group.heading }}</h3>
+        <p class="heading va-nav-linkslist-heading">{{ group.heading }}</p>
     {% endif %}
 
     {% if group.links.length > 0 %}
@@ -39,9 +39,9 @@ See https://help.shopify.com/themes/liquid/tags/theme-tags#include
       {% for link in group.links %}
         {% if link.url != empty %}
           <li>
-            <a href="{{link.url}}" onClick="recordEvent({ event: 'nav-linkslist' });">
+            <a href="{{link.url}}">
             {% if link.title != empty %}
-              <h4 class="va-nav-linkslist-title">{{ link.title }}</h4>
+              <p>{{ link.title }}</p>
             {% endif %}
 
             {% if link.description != empty %}
